@@ -1,0 +1,15 @@
+.header__burger::before,
+.header__burger::after{
+    content: '';
+    position: absolute;
+    color: #df1515;
+    width: 100%;
+    height: 2px;
+    left: 0;
+}
+
+.header__burger{
+    position: relative;
+    width: 30px;
+    height: 40px;
+}   Кто подскажет почему не видно линий.?
