@@ -206,6 +206,10 @@
 .surf-slider{
     padding-top: 110px;
 
+    .slick-active{
+        transform: scaleX(1.1)
+    }
+
     .slider-arrows{
         top: 50px;
         opacity: .25;
